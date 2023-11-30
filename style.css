@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+
+h1{
+    color: white;
+}
+
+h4{
+    width: 200px;
+    height: 3000px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.container{
+    text-wrap: wrap;
+    width: 500px;
+    height: 3000px;
+    outline: solid 1px white;
+    align-items: center;
+    text-align: center;
+}
